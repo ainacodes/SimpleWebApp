@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(243, 191, 255) !important;
+}
+
+
+
+header {
+    color: black;
+}
+
+.card1{
+    background-color: rgb(224, 158, 255);
+    width: 500px;
+    border: none;
+    border-radius: 5px;
+    padding: 50px;
+    margin: auto;
+}
+
+.card2{
+    width: 500px;
+    border: 5px;
+    border-width: 1px;
+    border-radius: 5px;
+    padding: 50px;
+    margin: auto;
+}
+
+
+.container {
+    color: black !important;
+}
+
+.text-center {
+    text-align: center;
+}
