@@ -7,7 +7,7 @@ All the data will be stored in your local database. For example, using MySQL Wor
 ## How to use this source code
 
 ### Requirements:
-1. A localhost Web Server for example XAMPP [download XAMPP] (https://www.apachefriends.org/download.html)
+1. A localhost Web Server for example XAMPP [download XAMPP](https://www.apachefriends.org/download.html)
 2. Composer [download Composer](https://getcomposer.org/download/)
 
 ### 1. Clone repo 
