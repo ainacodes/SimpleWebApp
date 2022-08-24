@@ -12,7 +12,7 @@ All the data will be stored in your local database. For example, using MySQL Wor
 
 ### 1. Clone repo 
 ```
-git clone https://github.com/3nacodes/SimpleWebApp
+git clone https://github.com/ainacodes/SimpleWebApp
 ```
 - move the folder to ...\xampp\htdocs
 - open the file in your editor for example VScode.
